@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demo.spring.boot.docker.SpringBootDockerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.238 s - in com.example.demo.spring.boot.docker.SpringBootDockerApplicationTests
